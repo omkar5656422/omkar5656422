@@ -1,3 +1,4 @@
+![logo](https://github.com/omkar5656422/omkar5656422/blob/main/banner.png.jpg)
 <h1 align="center">Hi 👋, I'm Omkar Acharya</h1>
 <h3 align="center">I am an software Engineer student. Crafting clean code at SOA University</h3>
 
